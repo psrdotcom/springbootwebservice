@@ -1,4 +1,4 @@
-# springbootwebservice
+## springbootwebservice
 Sample spring boot webservice creation and jQuery client consumption of web service
 
 # Pre-requisites
@@ -7,7 +7,7 @@ Sample spring boot webservice creation and jQuery client consumption of web serv
 2. Spring Boot
 3. Apache Tomcat
 
-# Run application:
+# Run application
 
 - Download the git
 - Open command prompt and navigate to SampleSpringWebApp folder
@@ -20,9 +20,9 @@ Sample spring boot webservice creation and jQuery client consumption of web serv
 # Access the webservice
 
 - Open browser
-= In address bar type, 
-**Syntax:** *http://<yourserveraddress>[:port]/welcome[?name=<your name>]*
-**Example:** *http://localhost:8080/welcome?name=PSR*
+- In address bar type, 
+- **Syntax:** *http://<yourserveraddress>[:port]/welcome[?name=<your name>]*
+- **Example:** *http://localhost:8080/welcome?name=PSR*
 
 # Using client application
 
